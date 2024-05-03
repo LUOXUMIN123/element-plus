@@ -5,7 +5,7 @@
     <el-button type="primary" :icon="Delete" />
     <el-button type="primary" :icon="Search">Search</el-button>
     <el-button type="primary">
-      Upload<el-icon class="el-icon--right"><Upload /></el-icon>
+      获取<el-icon class="el-icon--right"><Get /></el-icon>
     </el-button>
   </div>
 </template>
